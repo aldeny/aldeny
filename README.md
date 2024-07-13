@@ -19,6 +19,7 @@
 <a href="https://instagram.com/aldeny28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aldeny28" height="30" width="40" /></a>
 </p>
 
+<br>
 <hr>
 
 <h3 align="center">Languages and Tools:</h3>
