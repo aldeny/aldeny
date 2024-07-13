@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Laravel, NextJs**
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **Laravel, TailwindCSS**
 
 - 📫 How to reach me **poor.grammer.code@gmail.com**
 
